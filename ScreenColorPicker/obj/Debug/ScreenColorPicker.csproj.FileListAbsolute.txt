@@ -1,0 +1,12 @@
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\bin\Debug\ScreenColorPicker.exe.config
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.csprojResolveAssemblyReference.cache
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.Form1.resources
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.Properties.Resources.resources
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.csproj.GenerateResource.Cache
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\bin\Debug\ScreenColorPicker.exe
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\bin\Debug\ScreenColorPicker.pdb
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.exe
+F:\CSharpProj\ScreenColor\ScreenColorPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.pdb
+C:\Users\Brisk\Source\Repos\ScreenPicker\ScreenColorPicker\bin\Debug\ScreenColorPicker.exe.config
+C:\Users\Brisk\Source\Repos\ScreenPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.exe
+C:\Users\Brisk\Source\Repos\ScreenPicker\ScreenColorPicker\obj\Debug\ScreenColorPicker.pdb
